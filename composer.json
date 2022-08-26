@@ -1,0 +1,13 @@
+{
+  "name": "linocordeiro/php-style",
+  "description": "Shared PHP style rules for PHP-CS-Fixer",
+  "license": "MIT",
+  "require": {
+    "friendsofphp/php-cs-fixer": "^3.10"
+  },
+  "autoload": {
+    "files": [
+      "./src/helpers.php"
+    ]
+  }
+}
